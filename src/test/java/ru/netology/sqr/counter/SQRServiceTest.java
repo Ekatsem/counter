@@ -15,10 +15,5 @@ public class SQRServiceTest {
         int actual = service.calcSQRService(x, y);
 
         Assertions.assertEquals(expected, actual);
-
-
-
     }
-
-
 }
